@@ -1,0 +1,69 @@
+{
+  "_comment": "Corrections from independent verification and the user-facing note shown for each satellite. Keyed by NORAD number.",
+  "corrections": {
+    "57517": {
+      "prn": "R08",
+      "plane": "1",
+      "slot": "8",
+      "freqChannel": 6,
+      "status": "healthy",
+      "signals": "L1OF, L1OC"
+    },
+    "37869": {
+      "prn": "",
+      "slot": "",
+      "status": "unknown"
+    },
+    "68791": {
+      "plane": "B",
+      "slot": ""
+    },
+    "40549": {
+      "status": "unknown"
+    },
+    "40748": {
+      "status": "unknown"
+    },
+    "40749": {
+      "status": "unknown"
+    },
+    "40938": {
+      "status": "unknown"
+    }
+  },
+  "notes": {
+    "40128": "Left in an eccentric orbit by the 2014 launch anomaly; flagged unhealthy since February 2021.",
+    "40129": "Left in an eccentric orbit by the 2014 launch anomaly; flagged unhealthy since February 2021.",
+    "40545": "Removed from active service in December 2017 for constellation management.",
+    "41550": "Removed from active service in September 2023.",
+    "37846": "In-Orbit Validation satellite launched in 2011, still in service.",
+    "37847": "In-Orbit Validation satellite launched in 2011, still in service.",
+    "38857": "In-Orbit Validation satellite launched in 2012, still in service.",
+    "32275": "Under investigation by the manufacturer; not in service.",
+    "36112": "Under investigation by the manufacturer; not in service.",
+    "36402": "Withdrawn for maintenance since 1 September 2026.",
+    "40001": "Withdrawn for maintenance since 9 September 2026.",
+    "37869": "Replaced in slot 8 by GLONASS-K2 No. 703 on 25 September 2026; current status not published.",
+    "57517": "First GLONASS-K2 satellite; in service in slot 8 since 25 September 2026.",
+    "63130": "Second GLONASS-K2 satellite; in service in slot 6.",
+    "68791": "GPS III SV10, launched April 2026. Orbits in plane B (official slot label A5).",
+    "67588": "GPS III SV09, launched January 2026.",
+    "40549": "Experimental BDS-3 demonstration satellite (2015); not part of the operational service.",
+    "40748": "Experimental BDS-3 demonstration satellite (2015); not part of the operational service.",
+    "40749": "Experimental BDS-3 demonstration satellite (2015); not part of the operational service.",
+    "40938": "Experimental BDS-3 demonstration satellite (2015); not part of the operational service.",
+    "41434": "One of two BDS-2 satellites still in service.",
+    "43539": "One of two BDS-2 satellites still in service.",
+    "56564": "Geostationary at 140° E.",
+    "45344": "Geostationary at 80° E: fixed in the sky as seen from the ground.",
+    "45807": "Geostationary at 110.5° E: fixed in the sky as seen from the ground.",
+    "43683": "Geostationary at 160° E."
+  },
+  "retiredNote": "BDS-2 satellite retired from service; it no longer broadcasts a usable signal.",
+  "_verification": {
+    "GPS": "Independently verified (31/32 rows confirmed; SVN83 plane corrected).",
+    "GAL": "Independently verified (all 32 rows confirmed).",
+    "GLO": "Independently verified (23 confirmed, 2 maintenance rows unverifiable; slot 8 corrected for GLONASS-K2 No. 703).",
+    "BDS": "Orbit types and SVN/COSPAR identities verified offline. The April 2026 PRN reassignments and in-service status rest on one research pass (IGS MGEX, Cabinet Office QZSS satellite list, CSNO-TARC table of 14 Sep 2026 as reported); not independently confirmed."
+  }
+}

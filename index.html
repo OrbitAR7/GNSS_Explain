@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Interactive simulator of satellite positioning, navigation and timing (GPS, Galileo, GLONASS, BeiDou)." />
+    <title>GNSS Explain</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <script>
+      // CesiumJS loads its workers and assets relative to this URL.
+      window.CESIUM_BASE_URL = './cesium/';
+    </script>
+  </head>
+  <body>
+    <div id="app" class="app"></div>
+    <script type="module" src="./src/main.ts"></script>
+  </body>
+</html>

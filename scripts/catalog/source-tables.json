@@ -1,0 +1,2564 @@
+{
+ "Galileo": {
+  "satellites": [
+   {
+    "norad": 37846,
+    "name": "GSAT0101 (GALILEO-PFM)",
+    "prn": "E11",
+    "svn": "E101",
+    "plane": "B",
+    "slot": "B05",
+    "block": "IOV",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 37847,
+    "name": "GSAT0102 (GALILEO-FM2)",
+    "prn": "E12",
+    "svn": "E102",
+    "plane": "B",
+    "slot": "B06",
+    "block": "IOV",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 38857,
+    "name": "GSAT0103 (GALILEO-FM3)",
+    "prn": "E19",
+    "svn": "E103",
+    "plane": "C",
+    "slot": "C04",
+    "block": "IOV",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 40128,
+    "name": "GSAT0201 (GALILEO 5)",
+    "prn": "E18",
+    "svn": "E201",
+    "plane": "EXT",
+    "slot": "EXT01",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "unhealthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 40129,
+    "name": "GSAT0202 (GALILEO 6)",
+    "prn": "E14",
+    "svn": "E202",
+    "plane": "EXT",
+    "slot": "EXT02",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "unhealthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 40544,
+    "name": "GSAT0203 (GALILEO 7)",
+    "prn": "E26",
+    "svn": "E203",
+    "plane": "B",
+    "slot": "B08",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 40545,
+    "name": "GSAT0204 (GALILEO 8)",
+    "prn": "E22",
+    "svn": "E204",
+    "plane": "B",
+    "slot": "B14",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "unhealthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "medium"
+   },
+   {
+    "norad": 40890,
+    "name": "GSAT0206 (GALILEO 10)",
+    "prn": "E30",
+    "svn": "E206",
+    "plane": "A",
+    "slot": "A05",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 41174,
+    "name": "GSAT0209 (GALILEO 12)",
+    "prn": "E09",
+    "svn": "E209",
+    "plane": "C",
+    "slot": "C02",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 41175,
+    "name": "GSAT0208 (GALILEO 11)",
+    "prn": "E08",
+    "svn": "E208",
+    "plane": "C",
+    "slot": "C07",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 41549,
+    "name": "GSAT0211 (GALILEO 14)",
+    "prn": "E02",
+    "svn": "E211",
+    "plane": "A",
+    "slot": "A06",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 41550,
+    "name": "GSAT0210 (GALILEO 13)",
+    "prn": "E01",
+    "svn": "E210",
+    "plane": "A",
+    "slot": "A12",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "unhealthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "medium"
+   },
+   {
+    "norad": 41859,
+    "name": "GSAT0207 (GALILEO 15)",
+    "prn": "E07",
+    "svn": "E207",
+    "plane": "C",
+    "slot": "C06",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 41860,
+    "name": "GSAT0212 (GALILEO 16)",
+    "prn": "E03",
+    "svn": "E212",
+    "plane": "C",
+    "slot": "C08",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 41861,
+    "name": "GSAT0213 (GALILEO 17)",
+    "prn": "E04",
+    "svn": "E213",
+    "plane": "C",
+    "slot": "C03",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 41862,
+    "name": "GSAT0214 (GALILEO 18)",
+    "prn": "E05",
+    "svn": "E214",
+    "plane": "C",
+    "slot": "C01",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 43055,
+    "name": "GSAT0215 (GALILEO 19)",
+    "prn": "E21",
+    "svn": "E215",
+    "plane": "A",
+    "slot": "A03",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 43056,
+    "name": "GSAT0216 (GALILEO 20)",
+    "prn": "E25",
+    "svn": "E216",
+    "plane": "A",
+    "slot": "A07",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 43057,
+    "name": "GSAT0217 (GALILEO 21)",
+    "prn": "E27",
+    "svn": "E217",
+    "plane": "A",
+    "slot": "A04",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 43058,
+    "name": "GSAT0218 (GALILEO 22)",
+    "prn": "E31",
+    "svn": "E218",
+    "plane": "A",
+    "slot": "A01",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 43564,
+    "name": "GSAT0221 (GALILEO 25)",
+    "prn": "E15",
+    "svn": "E221",
+    "plane": "B",
+    "slot": "B02",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 43565,
+    "name": "GSAT0222 (GALILEO 26)",
+    "prn": "E33",
+    "svn": "E222",
+    "plane": "B",
+    "slot": "B07",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 43566,
+    "name": "GSAT0219 (GALILEO 23)",
+    "prn": "E36",
+    "svn": "E219",
+    "plane": "B",
+    "slot": "B04",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 43567,
+    "name": "GSAT0220 (GALILEO 24)",
+    "prn": "E13",
+    "svn": "E220",
+    "plane": "B",
+    "slot": "B01",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 49809,
+    "name": "GSAT0223 (GALILEO 27)",
+    "prn": "E34",
+    "svn": "E223",
+    "plane": "B",
+    "slot": "B03",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 49810,
+    "name": "GSAT0224 (GALILEO 28)",
+    "prn": "E10",
+    "svn": "E224",
+    "plane": "B",
+    "slot": "B15",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 59598,
+    "name": "GSAT0225 (GALILEO 29)",
+    "prn": "E29",
+    "svn": "E225",
+    "plane": "C",
+    "slot": "C05",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 59600,
+    "name": "GSAT0227 (GALILEO 30)",
+    "prn": "E06",
+    "svn": "E227",
+    "plane": "C",
+    "slot": "C12",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 61182,
+    "name": "GSAT0232 (GALILEO 32)",
+    "prn": "E16",
+    "svn": "E232",
+    "plane": "A",
+    "slot": "A08",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 61183,
+    "name": "GSAT0226 (GALILEO 31)",
+    "prn": "E23",
+    "svn": "E226",
+    "plane": "A",
+    "slot": "A02",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 67160,
+    "name": "GSAT0233 (GALILEO 33)",
+    "prn": "E28",
+    "svn": "E233",
+    "plane": "C",
+    "slot": "C13",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   },
+   {
+    "norad": 67162,
+    "name": "GSAT0234 (GALILEO 34)",
+    "prn": "E32",
+    "svn": "E234",
+    "plane": "C",
+    "slot": "C17",
+    "block": "FOC",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "E1-B/C",
+    "confidence": "high"
+   }
+  ],
+  "sources": [
+   {
+    "title": "GSC - Constellation Information (Galileo constellation status table)",
+    "url": "https://www.gsc-europa.eu/system-service-status/constellation-information"
+   },
+   {
+    "title": "GSC - Orbital and Technical Parameters (reference constellation, slots)",
+    "url": "https://www.gsc-europa.eu/system-service-status/orbital-and-technical-parameters"
+   },
+   {
+    "title": "GSC - Galileo OS Quarterly Performance Report Q1 2026",
+    "url": "https://www.gsc-europa.eu/sites/default/files/sites/all/files/Galileo-OS-Quarterly-Performance_Report-Q1-2026.pdf"
+   },
+   {
+    "title": "GSC - SAR/Galileo Satellites Information",
+    "url": "https://www.gsc-europa.eu/system-service-status/sar-information"
+   },
+   {
+    "title": "NAGU 2021008 (GSAT0201/GSAT0202 unavailable, health bits unhealthy)",
+    "url": "https://www.gsc-europa.eu/notice-advisory-to-galileo-users-nagu-2021008"
+   },
+   {
+    "title": "Galileo Service Notice #05 (reason for E14/E18 unhealthy flag)",
+    "url": "https://www.gsc-europa.eu/sites/default/files/sites/all/files/Galileo-service-notice-05-v1.0.pdf"
+   },
+   {
+    "title": "GSC Constellation Status (GSAT0204 removed from active service 2017-12-08, NAGU 2017045)",
+    "url": "https://www.gsc-europa.eu/node/20"
+   },
+   {
+    "title": "Galileo HAS performance and anomaly mitigation (GSAT0210 removal, NAGU 2023048)",
+    "url": "https://link.springer.com/article/10.1007/s10291-023-01555-w"
+   },
+   {
+    "title": "NAGU 2016011 (GSAT0210/0211 launch, planned slots A02/A06)",
+    "url": "https://www.gsc-europa.eu/notice-advisory-to-galileo-users-nagu-2016011"
+   },
+   {
+    "title": "NAGU 2021024 (GSAT0223/0224 launch, slots B03/B15)",
+    "url": "https://www.gsc-europa.eu/notice-advisory-to-galileo-users-nagu-2021024"
+   },
+   {
+    "title": "NAGU 2022034 (GSAT0224 usable, slot B15)",
+    "url": "https://www.gsc-europa.eu/notice-advisory-to-galileo-users-nagu-2022034"
+   },
+   {
+    "title": "NAGU 2024020 (GSAT0225/0227 launch, SVID 29/06, slots C05/C12)",
+    "url": "https://www.gsc-europa.eu/notice-advisory-to-galileo-users-nagu-2024020"
+   },
+   {
+    "title": "NAGU 2024033 (GSAT0225 usable, slot C05)",
+    "url": "https://www.gsc-europa.eu/notice-advisory-to-galileo-users-nagu-2024033"
+   },
+   {
+    "title": "NAGU 2024034 (GSAT0227 usable, slot C12)",
+    "url": "https://www.gsc-europa.eu/notice-advisory-to-galileo-users-nagu-2024034"
+   },
+   {
+    "title": "GSC news - Updated metadata information for GSAT0225 and GSAT0227",
+    "url": "https://www.gsc-europa.eu/news/updated-metadata-information-for-galileo-satellites-gsat0225-and-gsat0227"
+   },
+   {
+    "title": "NAGU 2024038 (GSAT0226/0232 launch)",
+    "url": "https://www.gsc-europa.eu/notice-advisory-to-galileo-users-nagu-2024038"
+   },
+   {
+    "title": "NAGU 2025003 (GSAT0226 usable, slot A02)",
+    "url": "https://www.gsc-europa.eu/notice-advisory-to-galileo-users-nagu-2025003"
+   },
+   {
+    "title": "NAGU 2025004 (GSAT0232 usable, slot A17)",
+    "url": "https://www.gsc-europa.eu/notice-advisory-to-galileo-users-nagu-2025004"
+   },
+   {
+    "title": "GSC news - Updated metadata information for GSAT0226 and GSAT0232",
+    "url": "https://www.gsc-europa.eu/news/updated-metadata-information-for-galileo-satellites-gsat0226-and-gsat0232"
+   },
+   {
+    "title": "GSC news - GSAT0232 becomes part of the 24 nominal constellation; GSAT0205 is decommissioned",
+    "url": "https://www.gsc-europa.eu/news/gsat0232-becomes-part-of-the-24-nominal-constellation-gsat0205-is-decommissioned"
+   },
+   {
+    "title": "NAGU 2026009 (GSAT0232 nominal in A08 from 2026-02-01)",
+    "url": "https://www.gsc-europa.eu/notice-advisory-to-galileo-users-nagu-2026009"
+   },
+   {
+    "title": "NAGU 2025059 (GSAT0205 decommissioning 2025-12-15)",
+    "url": "https://www.gsc-europa.eu/notice-advisory-to-galileo-users-nagu-2025059"
+   },
+   {
+    "title": "GSC news - Goodbye Galileo GSAT0104!",
+    "url": "https://www.gsc-europa.eu/news/goodbye-galileo-gsat0104"
+   },
+   {
+    "title": "NAGU 2024015 (GSAT0104 decommissioning)",
+    "url": "https://www.gsc-europa.eu/sites/default/files/NOTICE_ADVISORY_TO_GALILEO_USERS_NAGU_2024015.txt"
+   },
+   {
+    "title": "NAGU 2025061 (L14 launch GSAT0233/0234, SVID 28/32, slots C13/C17)",
+    "url": "https://www.gsc-europa.eu/notice-advisory-to-galileo-users-nagu-2025061"
+   },
+   {
+    "title": "GSC news - Updated metadata information for GSAT0233 and GSAT0234",
+    "url": "https://www.gsc-europa.eu/news/updated-metadata-information-for-galileo-satellites-gsat0233-and-gsat0234"
+   },
+   {
+    "title": "NAGU 2026033 (GSAT0233 usable 2026-05-21, slot C13)",
+    "url": "https://www.gsc-europa.eu/notice-advisory-to-galileo-users-nagu-2026033"
+   },
+   {
+    "title": "NAGU 2026041 (GSAT0234 usable 2026-07-23, slot C17)",
+    "url": "https://www.gsc-europa.eu/notice-advisory-to-galileo-users-nagu-2026041"
+   },
+   {
+    "title": "NAGU 2026042 (GSAT0234 unplanned outage 2026-09-02)",
+    "url": "https://www.gsc-europa.eu/notice-advisory-to-galileo-users-nagu-2026042"
+   },
+   {
+    "title": "NAGU 2026043 (GSAT0234 estimated recovery)",
+    "url": "https://www.gsc-europa.eu/notice-advisory-to-galileo-users-nagu-2026043"
+   },
+   {
+    "title": "NAGU 2026044 (GSAT0234 usable again 2026-09-12)",
+    "url": "https://www.gsc-europa.eu/notice-advisory-to-galileo-users-nagu-2026044"
+   },
+   {
+    "title": "NAGU 2026026 (GSAT0215 short outage 2026-04-15)",
+    "url": "https://www.gsc-europa.eu/notice-advisory-to-galileo-users-nagu-2026026"
+   },
+   {
+    "title": "NAGU 2026030 / 2026031 (GSAT0219 planned outage 2026-05-08)",
+    "url": "https://www.gsc-europa.eu/notice-advisory-to-galileo-users-nagu-2026031"
+   },
+   {
+    "title": "NAGU 2026039 (GSAT0213 outage June 2026, recovered)",
+    "url": "https://www.gsc-europa.eu/notice-advisory-to-galileo-users-nagu-2026039"
+   },
+   {
+    "title": "NAGU 2026040 (GSAT0218 short-term outage 2026-06-22)",
+    "url": "https://www.gsc-europa.eu/notice-advisory-to-galileo-users-nagu-2026040"
+   },
+   {
+    "title": "NAGU 2026045 (OSNMA service outage 2026-10-06)",
+    "url": "https://www.gsc-europa.eu/notice-advisory-to-galileo-users-nagu-2026045"
+   },
+   {
+    "title": "NAGU 2026046 (HAS service outage 2026-10-06)",
+    "url": "https://www.gsc-europa.eu/notice-advisory-to-galileo-users-nagu-2026046"
+   },
+   {
+    "title": "Arianespace - Ariane 6 launches Galileo L14 (VA266)",
+    "url": "https://newsroom.arianespace.com/with-ariane-6-arianespace-successfully-launches-eus-galileo-l14/"
+   },
+   {
+    "title": "PRIDE PPP-AR satellite parameters table (PRN/SVN/COSPAR, machine-readable, generated 2024-08-22)",
+    "url": "https://raw.githubusercontent.com/PrideLab/PRIDE-PPPAR/master/table/sat_parameters"
+   },
+   {
+    "title": "azmth.space Galileo tracker (third-party; cites GSC table of 14 Sep 2026: 32 listed, 28 usable)",
+    "url": "https://azmth.space/tracker/galileo"
+   },
+   {
+    "title": "Wikipedia - List of Galileo satellites (secondary cross-check of slots/status)",
+    "url": "https://en.wikipedia.org/wiki/List_of_Galileo_satellites"
+   },
+   {
+    "title": "Bert Hubert - The Galileo Eccentric Satellite Surprise (E14/E18 receiver issues)",
+    "url": "https://berthub.eu/articles/posts/galileos-eccentric-satellites/"
+   }
+  ]
+ },
+ "GPS": {
+  "satellites": [
+   {
+    "norad": 26407,
+    "name": "GPS BIIR-5  (PRN 22)",
+    "prn": "G22",
+    "svn": "SVN44",
+    "plane": "B",
+    "slot": "3",
+    "block": "IIR",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A",
+    "confidence": "high"
+   },
+   {
+    "norad": 27663,
+    "name": "GPS BIIR-8  (PRN 16)",
+    "prn": "G16",
+    "svn": "SVN56",
+    "plane": "B",
+    "slot": "1",
+    "block": "IIR",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A",
+    "confidence": "high"
+   },
+   {
+    "norad": 28190,
+    "name": "GPS BIIR-11 (PRN 19)",
+    "prn": "G19",
+    "svn": "SVN59",
+    "plane": "C",
+    "slot": "5",
+    "block": "IIR",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A",
+    "confidence": "medium"
+   },
+   {
+    "norad": 28474,
+    "name": "GPS BIIR-13 (PRN 02)",
+    "prn": "G02",
+    "svn": "SVN61",
+    "plane": "D",
+    "slot": "1",
+    "block": "IIR",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A",
+    "confidence": "high"
+   },
+   {
+    "norad": 28874,
+    "name": "GPS BIIRM-1 (PRN 17)",
+    "prn": "G17",
+    "svn": "SVN53",
+    "plane": "C",
+    "slot": "4",
+    "block": "IIR-M",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A",
+    "confidence": "high"
+   },
+   {
+    "norad": 29486,
+    "name": "GPS BIIRM-2 (PRN 31)",
+    "prn": "G31",
+    "svn": "SVN52",
+    "plane": "A",
+    "slot": "2",
+    "block": "IIR-M",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A",
+    "confidence": "high"
+   },
+   {
+    "norad": 29601,
+    "name": "GPS BIIRM-3 (PRN 12)",
+    "prn": "G12",
+    "svn": "SVN58",
+    "plane": "B",
+    "slot": "4",
+    "block": "IIR-M",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A",
+    "confidence": "medium"
+   },
+   {
+    "norad": 32260,
+    "name": "GPS BIIRM-4 (PRN 15)",
+    "prn": "G15",
+    "svn": "SVN55",
+    "plane": "F",
+    "slot": "2",
+    "block": "IIR-M",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A",
+    "confidence": "high"
+   },
+   {
+    "norad": 32384,
+    "name": "GPS BIIRM-5 (PRN 29)",
+    "prn": "G29",
+    "svn": "SVN57",
+    "plane": "C",
+    "slot": "1",
+    "block": "IIR-M",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A",
+    "confidence": "high"
+   },
+   {
+    "norad": 32711,
+    "name": "GPS BIIRM-6 (PRN 07)",
+    "prn": "G07",
+    "svn": "SVN48",
+    "plane": "A",
+    "slot": "4",
+    "block": "IIR-M",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A",
+    "confidence": "high"
+   },
+   {
+    "norad": 35752,
+    "name": "GPS BIIRM-8 (PRN 05)",
+    "prn": "G05",
+    "svn": "SVN50",
+    "plane": "E",
+    "slot": "3",
+    "block": "IIR-M",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A",
+    "confidence": "high"
+   },
+   {
+    "norad": 36585,
+    "name": "GPS BIIF-1  (PRN 25)",
+    "prn": "G25",
+    "svn": "SVN62",
+    "plane": "B",
+    "slot": "2",
+    "block": "IIF",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A",
+    "confidence": "high"
+   },
+   {
+    "norad": 38833,
+    "name": "GPS BIIF-3  (PRN 24)",
+    "prn": "G24",
+    "svn": "SVN65",
+    "plane": "A",
+    "slot": "1",
+    "block": "IIF",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A",
+    "confidence": "high"
+   },
+   {
+    "norad": 39166,
+    "name": "GPS BIIF-4  (PRN 27)",
+    "prn": "G27",
+    "svn": "SVN66",
+    "plane": "C",
+    "slot": "2",
+    "block": "IIF",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A",
+    "confidence": "high"
+   },
+   {
+    "norad": 39533,
+    "name": "GPS BIIF-5  (PRN 30)",
+    "prn": "G30",
+    "svn": "SVN64",
+    "plane": "A",
+    "slot": "3",
+    "block": "IIF",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A",
+    "confidence": "high"
+   },
+   {
+    "norad": 39741,
+    "name": "GPS BIIF-6  (PRN 06)",
+    "prn": "G06",
+    "svn": "SVN67",
+    "plane": "D",
+    "slot": "4",
+    "block": "IIF",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A",
+    "confidence": "high"
+   },
+   {
+    "norad": 40105,
+    "name": "GPS BIIF-7  (PRN 09)",
+    "prn": "G09",
+    "svn": "SVN68",
+    "plane": "F",
+    "slot": "3",
+    "block": "IIF",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A",
+    "confidence": "high"
+   },
+   {
+    "norad": 40294,
+    "name": "GPS BIIF-8  (PRN 03)",
+    "prn": "G03",
+    "svn": "SVN69",
+    "plane": "E",
+    "slot": "1",
+    "block": "IIF",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A",
+    "confidence": "high"
+   },
+   {
+    "norad": 40534,
+    "name": "GPS BIIF-9  (PRN 26)",
+    "prn": "G26",
+    "svn": "SVN71",
+    "plane": "B",
+    "slot": "5",
+    "block": "IIF",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A",
+    "confidence": "high"
+   },
+   {
+    "norad": 40730,
+    "name": "GPS BIIF-10 (PRN 08)",
+    "prn": "G08",
+    "svn": "SVN72",
+    "plane": "C",
+    "slot": "3",
+    "block": "IIF",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A",
+    "confidence": "high"
+   },
+   {
+    "norad": 41019,
+    "name": "GPS BIIF-11 (PRN 10)",
+    "prn": "G10",
+    "svn": "SVN73",
+    "plane": "E",
+    "slot": "2",
+    "block": "IIF",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A",
+    "confidence": "high"
+   },
+   {
+    "norad": 41328,
+    "name": "GPS BIIF-12 (PRN 32)",
+    "prn": "G32",
+    "svn": "SVN70",
+    "plane": "F",
+    "slot": "1",
+    "block": "IIF",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A",
+    "confidence": "high"
+   },
+   {
+    "norad": 43873,
+    "name": "GPS BIII-1  (PRN 04)",
+    "prn": "G04",
+    "svn": "SVN74",
+    "plane": "F",
+    "slot": "4",
+    "block": "III",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A, L1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 44506,
+    "name": "GPS BIII-2  (PRN 18)",
+    "prn": "G18",
+    "svn": "SVN75",
+    "plane": "D",
+    "slot": "6",
+    "block": "III",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A, L1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 45854,
+    "name": "GPS BIII-3  (PRN 23)",
+    "prn": "G23",
+    "svn": "SVN76",
+    "plane": "E",
+    "slot": "5",
+    "block": "III",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A, L1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 46826,
+    "name": "GPS BIII-4  (PRN 14)",
+    "prn": "G14",
+    "svn": "SVN77",
+    "plane": "B",
+    "slot": "6",
+    "block": "III",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A, L1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 48859,
+    "name": "GPS BIII-5  (PRN 11)",
+    "prn": "G11",
+    "svn": "SVN78",
+    "plane": "D",
+    "slot": "5",
+    "block": "III",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A, L1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 55268,
+    "name": "GPS BIII-6  (PRN 28)",
+    "prn": "G28",
+    "svn": "SVN79",
+    "plane": "A",
+    "slot": "6",
+    "block": "III",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A, L1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 62339,
+    "name": "GPS BIII-7  (PRN 01)",
+    "prn": "G01",
+    "svn": "SVN80",
+    "plane": "D",
+    "slot": "2",
+    "block": "III",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A, L1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 64202,
+    "name": "GPS BIII-8  (PRN 21)",
+    "prn": "G21",
+    "svn": "SVN81",
+    "plane": "E",
+    "slot": "6",
+    "block": "III",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A, L1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 67588,
+    "name": "GPS BIII-9  (PRN 20)",
+    "prn": "G20",
+    "svn": "SVN82",
+    "plane": "F",
+    "slot": "5",
+    "block": "III",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A, L1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 68791,
+    "name": "GPS BIII-10 (PRN 13)",
+    "prn": "G13",
+    "svn": "SVN83",
+    "plane": "A",
+    "slot": "5",
+    "block": "III",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1 C/A, L1C",
+    "confidence": "medium"
+   }
+  ],
+  "sources": [
+   {
+    "title": "PRIDE PPP-AR satellite parameter table (PRN/SVN/COSPAR/block history, generated 2024-08-22), fetched via raw.githubusercontent.com",
+    "url": "https://raw.githubusercontent.com/PrideLab/PRIDE-PPPAR/master/table/sat_parameters"
+   },
+   {
+    "title": "USCG NAVCEN - GPS Constellation status table",
+    "url": "https://navcen.uscg.gov/gps-constellation"
+   },
+   {
+    "title": "USCG NAVCEN - GPS Operational Advisory 174.OA1 (GPS status 23 Jun 2026)",
+    "url": "https://navcen.uscg.gov/sites/default/files/gps/opsadvisory/current_opsadvisory.oa1"
+   },
+   {
+    "title": "GPS Operational Advisory JDAY 111 (21 Apr 2026)",
+    "url": "https://www.forth.news/lists/uscg/CaGgjVUYypFERe7T6iHKJ"
+   },
+   {
+    "title": "CelesTrak: GPS NANU Messages 2026",
+    "url": "https://celestrak.org/GPS/NANU/2026/"
+   },
+   {
+    "title": "NANU 2026038 - SVN43 (PRN13) decommissioning JDAY 114",
+    "url": "https://www.navcen.uscg.gov/sites/default/files/gps/nanu/2026/2026038.nnu"
+   },
+   {
+    "title": "NANU 2026016 - SVN82 (PRN20) launch JDAY 028",
+    "url": "https://www.navcen.uscg.gov/sites/default/files/gps/nanu/2026/2026016.nnu"
+   },
+   {
+    "title": "NANU 2026033 - SVN82 (PRN20) forecast outage summary 17 Apr 2026",
+    "url": "https://www.navcen.uscg.gov/sites/default/files/gps/nanu/2026/2026033.nnu"
+   },
+   {
+    "title": "NANU 2025005 - SVN80 (PRN01) USABINIT 22 Jan 2025",
+    "url": "https://www.navcen.uscg.gov/sites/default/files/gps/nanu/2025/2025005.nnu"
+   },
+   {
+    "title": "NANU 2025046 - SVN81 (PRN21) USABINIT 25 Jun 2025",
+    "url": "https://www.navcen.uscg.gov/sites/default/files/gps/nanu/2025/2025046.nnu"
+   },
+   {
+    "title": "NANU 2025072 - SVN51 (PRN20) USABINIT 08 Oct 2025",
+    "url": "https://www.navcen.uscg.gov/sites/default/files/gps/nanu/2025/2025072.nnu"
+   },
+   {
+    "title": "NANU 2025056 - SVN51 (PRN20) decommissioning JDAY 216 (2025)",
+    "url": "https://navcen.uscg.gov/sites/default/files/gps/nanu/2025/2025056.nnu"
+   },
+   {
+    "title": "NANU 2025006 - SVN44 (PRN22) usable 22 Jan 2025",
+    "url": "https://navcen.uscg.gov/sites/default/files/gps/nanu/2025/2025006.nnu"
+   },
+   {
+    "title": "NANU 2026036 - SVN44 (PRN22) forecast outage summary 24 Apr 2026",
+    "url": "https://www.navcen.uscg.gov/sites/default/files/gps/nanu/2026/2026036.nnu"
+   },
+   {
+    "title": "NANU 2026044 - SVN79 (PRN28) unusable 19-21 May 2026",
+    "url": "https://www.navcen.uscg.gov/sites/default/files/gps/nanu/2026/2026044.nnu"
+   },
+   {
+    "title": "NANU 2026014 - SVN58 (PRN12) forecast outage summary 29 Jan 2026",
+    "url": "https://www.navcen.uscg.gov/sites/default/files/gps/nanu/2026/2026014.nnu"
+   },
+   {
+    "title": "NANU 2026046 - SVN53 (PRN17) forecast outage summary Jun 2026",
+    "url": "https://www.navcen.uscg.gov/sites/default/files/gps/nanu/2026/2026046.nnu"
+   },
+   {
+    "title": "NANU 2026049 - SVN78 (PRN11) unusable 26 Jun 2026",
+    "url": "https://www.navcen.uscg.gov/sites/default/files/gps/nanu/2026/2026049.nnu"
+   },
+   {
+    "title": "NAVCEN current NANU (NANU 2026055 - SVN71 (PRN26) 17 Jul 2026)",
+    "url": "https://www.navcen.uscg.gov/sites/default/files/gps/nanu/current_nanu.nnu"
+   },
+   {
+    "title": "NANU Abbreviations and Descriptions (USABINIT, UNUSUFN, DECOM, FCSTDV, FCSTMX)",
+    "url": "https://navcen.uscg.gov/nanu-abbreviations-and-descriptions"
+   },
+   {
+    "title": "GPS.gov 2026 Public ICWG Presentation Update (8 Jul 2026) - 39 satellites, 32 set healthy",
+    "url": "https://www.gps.gov/sites/default/files/2026-07/2026_Public_ICWG_Presentation%20Update_20260708-postMTG.pdf"
+   },
+   {
+    "title": "GPS.gov 2026 Public ICWG Presentation (12 May 2026) - 38 satellites, 31 set healthy",
+    "url": "https://www.gps.gov/sites/default/files/2026-05/2026_Public_ICWG_Presentation_20260512.pdf"
+   },
+   {
+    "title": "GPS.gov CGSIC briefing Apr 2026 (signal status: L1 C/A operational; L2C/L5 pre-operational)",
+    "url": "https://www.gps.gov/sites/default/files/2026-04/Mediate%2020260421_CGSIC%20MD%2031_FINAL.pdf"
+   },
+   {
+    "title": "Space Systems Command - U.S. Space Force delivers final GPS III to orbit",
+    "url": "https://www.ssc.spaceforce.mil/Newsroom/Article-Display/Article/4465444/us-space-force-delivers-final-gps-iii-to-orbit-advancing-its-most-resilient-con"
+   },
+   {
+    "title": "Space.com - SpaceX launches GPS III SV09",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-gps-iii-sv09-launch-space-force"
+   },
+   {
+    "title": "Space.com - SpaceX launches GPS III SV-10 after rocket swap",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-gps-iii-sv-10-satellite-us-space-force"
+   },
+   {
+    "title": "Wikipedia - USA-581 (GPS III SV09, COSPAR 2026-017A)",
+    "url": "https://en.wikipedia.org/wiki/USA-581"
+   },
+   {
+    "title": "Wikipedia - USA-585 (GPS III SV10)",
+    "url": "https://en.wikipedia.org/wiki/USA-585"
+   },
+   {
+    "title": "Wikipedia - GPS Block III (SV-to-SVN mapping)",
+    "url": "https://en.wikipedia.org/wiki/GPS_Block_III"
+   },
+   {
+    "title": "Wikipedia - List of GPS satellites (as of 2 Sep 2026)",
+    "url": "https://en.wikipedia.org/wiki/List_of_GPS_satellites"
+   },
+   {
+    "title": "ISS Tracker - NAVSTAR 86 (USA 585): SVN 83, PRN 13, slot A5",
+    "url": "https://isstracker.pl/satelity/68791"
+   },
+   {
+    "title": "IGSMAIL-8368 - igs20.atx update including reactivated BLOCK IIR-A SVN44/PRN22",
+    "url": "https://lists.igs.org/pipermail/igsmail/2023/008364.html"
+   },
+   {
+    "title": "CelesTrak element sets (local files gps-ops.tle and active.tle, downloaded 2026-10-18), used for RAAN/along-track/mean-motion checks",
+    "url": "https://celestrak.org/NORAD/elements/gp.php?GROUP=gps-ops&FORMAT=tle"
+   }
+  ]
+ },
+ "GLONASS": {
+  "satellites": [
+   {
+    "norad": 32275,
+    "name": "COSMOS 2433 (720)",
+    "prn": "",
+    "svn": "720",
+    "plane": "3",
+    "slot": "",
+    "block": "GLONASS-M",
+    "orbit": "MEO",
+    "freqChannel": 3,
+    "status": "unhealthy",
+    "signalsOpenL1Band": "L1OF (only if transmitting; not in use)",
+    "confidence": "medium"
+   },
+   {
+    "norad": 32393,
+    "name": "COSMOS 2434 (721)",
+    "prn": "R13",
+    "svn": "721",
+    "plane": "2",
+    "slot": "13",
+    "block": "GLONASS-M",
+    "orbit": "MEO",
+    "freqChannel": -2,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1OF",
+    "confidence": "high"
+   },
+   {
+    "norad": 32395,
+    "name": "COSMOS 2436 (723)",
+    "prn": "R10",
+    "svn": "723",
+    "plane": "2",
+    "slot": "10",
+    "block": "GLONASS-M",
+    "orbit": "MEO",
+    "freqChannel": -7,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1OF",
+    "confidence": "high"
+   },
+   {
+    "norad": 36111,
+    "name": "COSMOS 2456 (730)",
+    "prn": "R01",
+    "svn": "730",
+    "plane": "1",
+    "slot": "1",
+    "block": "GLONASS-M",
+    "orbit": "MEO",
+    "freqChannel": 1,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1OF",
+    "confidence": "high"
+   },
+   {
+    "norad": 36112,
+    "name": "COSMOS 2457 (733)",
+    "prn": "",
+    "svn": "733",
+    "plane": "1",
+    "slot": "",
+    "block": "GLONASS-M",
+    "orbit": "MEO",
+    "freqChannel": -4,
+    "status": "unhealthy",
+    "signalsOpenL1Band": "L1OF (only if transmitting; not in use)",
+    "confidence": "medium"
+   },
+   {
+    "norad": 36402,
+    "name": "COSMOS 2460 (732)",
+    "prn": "R23",
+    "svn": "732",
+    "plane": "3",
+    "slot": "23",
+    "block": "GLONASS-M",
+    "orbit": "MEO",
+    "freqChannel": 3,
+    "status": "maintenance",
+    "signalsOpenL1Band": "L1OF",
+    "confidence": "medium"
+   },
+   {
+    "norad": 37867,
+    "name": "COSMOS 2476 (744)",
+    "prn": "R03",
+    "svn": "744",
+    "plane": "1",
+    "slot": "3",
+    "block": "GLONASS-M",
+    "orbit": "MEO",
+    "freqChannel": 5,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1OF",
+    "confidence": "high"
+   },
+   {
+    "norad": 37868,
+    "name": "COSMOS 2477 (745)",
+    "prn": "R07",
+    "svn": "745",
+    "plane": "1",
+    "slot": "7",
+    "block": "GLONASS-M",
+    "orbit": "MEO",
+    "freqChannel": 5,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1OF",
+    "confidence": "high"
+   },
+   {
+    "norad": 37869,
+    "name": "COSMOS 2475 (743)",
+    "prn": "R08",
+    "svn": "743",
+    "plane": "1",
+    "slot": "8",
+    "block": "GLONASS-M",
+    "orbit": "MEO",
+    "freqChannel": 6,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1OF",
+    "confidence": "high"
+   },
+   {
+    "norad": 39155,
+    "name": "COSMOS 2485 (747)",
+    "prn": "R02",
+    "svn": "747",
+    "plane": "1",
+    "slot": "2",
+    "block": "GLONASS-M",
+    "orbit": "MEO",
+    "freqChannel": -4,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1OF",
+    "confidence": "high"
+   },
+   {
+    "norad": 39620,
+    "name": "COSMOS 2492 (754)",
+    "prn": "R18",
+    "svn": "754",
+    "plane": "3",
+    "slot": "18",
+    "block": "GLONASS-M",
+    "orbit": "MEO",
+    "freqChannel": -3,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1OF",
+    "confidence": "high"
+   },
+   {
+    "norad": 40001,
+    "name": "COSMOS 2500 (755)",
+    "prn": "R21",
+    "svn": "755",
+    "plane": "3",
+    "slot": "21",
+    "block": "GLONASS-M",
+    "orbit": "MEO",
+    "freqChannel": 4,
+    "status": "maintenance",
+    "signalsOpenL1Band": "L1OF",
+    "confidence": "medium"
+   },
+   {
+    "norad": 40315,
+    "name": "COSMOS 2501 (702K)",
+    "prn": "R09",
+    "svn": "702K",
+    "plane": "2",
+    "slot": "9",
+    "block": "GLONASS-K1",
+    "orbit": "MEO",
+    "freqChannel": -2,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1OF",
+    "confidence": "medium"
+   },
+   {
+    "norad": 41330,
+    "name": "COSMOS 2514 (751)",
+    "prn": "R17",
+    "svn": "751",
+    "plane": "3",
+    "slot": "17",
+    "block": "GLONASS-M",
+    "orbit": "MEO",
+    "freqChannel": 4,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1OF",
+    "confidence": "high"
+   },
+   {
+    "norad": 42939,
+    "name": "COSMOS 2522 (752)",
+    "prn": "R14",
+    "svn": "752",
+    "plane": "2",
+    "slot": "14",
+    "block": "GLONASS-M",
+    "orbit": "MEO",
+    "freqChannel": -7,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1OF",
+    "confidence": "high"
+   },
+   {
+    "norad": 43508,
+    "name": "COSMOS 2527 (756)",
+    "prn": "R05",
+    "svn": "756",
+    "plane": "1",
+    "slot": "5",
+    "block": "GLONASS-M",
+    "orbit": "MEO",
+    "freqChannel": 1,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1OF",
+    "confidence": "high"
+   },
+   {
+    "norad": 43687,
+    "name": "COSMOS 2529 (757)",
+    "prn": "R15",
+    "svn": "757",
+    "plane": "2",
+    "slot": "15",
+    "block": "GLONASS-M",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1OF",
+    "confidence": "high"
+   },
+   {
+    "norad": 44299,
+    "name": "COSMOS 2534 (758)",
+    "prn": "R12",
+    "svn": "758",
+    "plane": "2",
+    "slot": "12",
+    "block": "GLONASS-M",
+    "orbit": "MEO",
+    "freqChannel": -1,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1OF",
+    "confidence": "high"
+   },
+   {
+    "norad": 44850,
+    "name": "COSMOS 2544 (759)",
+    "prn": "R04",
+    "svn": "759",
+    "plane": "1",
+    "slot": "4",
+    "block": "GLONASS-M",
+    "orbit": "MEO",
+    "freqChannel": 6,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1OF",
+    "confidence": "high"
+   },
+   {
+    "norad": 45358,
+    "name": "COSMOS 2545 (760)",
+    "prn": "R24",
+    "svn": "760",
+    "plane": "3",
+    "slot": "24",
+    "block": "GLONASS-M",
+    "orbit": "MEO",
+    "freqChannel": 2,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1OF",
+    "confidence": "high"
+   },
+   {
+    "norad": 46805,
+    "name": "COSMOS 2547 (705K)",
+    "prn": "R11",
+    "svn": "705K",
+    "plane": "2",
+    "slot": "11",
+    "block": "GLONASS-K1",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1OF",
+    "confidence": "medium"
+   },
+   {
+    "norad": 52984,
+    "name": "COSMOS 2557 (706K)",
+    "prn": "R22",
+    "svn": "706K",
+    "plane": "3",
+    "slot": "22",
+    "block": "GLONASS-K1",
+    "orbit": "MEO",
+    "freqChannel": -3,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1OF",
+    "confidence": "medium"
+   },
+   {
+    "norad": 54031,
+    "name": "COSMOS 2559 (707K)",
+    "prn": "R19",
+    "svn": "707K",
+    "plane": "3",
+    "slot": "19",
+    "block": "GLONASS-K1",
+    "orbit": "MEO",
+    "freqChannel": 3,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1OF",
+    "confidence": "medium"
+   },
+   {
+    "norad": 54377,
+    "name": "COSMOS 2564 (761)",
+    "prn": "R16",
+    "svn": "761",
+    "plane": "2",
+    "slot": "16",
+    "block": "GLONASS-M",
+    "orbit": "MEO",
+    "freqChannel": -1,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1OF",
+    "confidence": "high"
+   },
+   {
+    "norad": 57517,
+    "name": "COSMOS 2569 (703K)",
+    "prn": "",
+    "svn": "703K",
+    "plane": "1",
+    "slot": "",
+    "block": "GLONASS-K2",
+    "orbit": "MEO",
+    "freqChannel": -6,
+    "status": "spare",
+    "signalsOpenL1Band": "L1OF, L1OC (when transmitting)",
+    "confidence": "medium"
+   },
+   {
+    "norad": 63130,
+    "name": "COSMOS 2584 (704K)",
+    "prn": "R06",
+    "svn": "704K",
+    "plane": "1",
+    "slot": "6",
+    "block": "GLONASS-K2",
+    "orbit": "MEO",
+    "freqChannel": -4,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1OF, L1OC",
+    "confidence": "medium"
+   },
+   {
+    "norad": 65590,
+    "name": "COSMOS 2596 (708K)",
+    "prn": "R20",
+    "svn": "708K",
+    "plane": "3",
+    "slot": "20",
+    "block": "GLONASS-K1",
+    "orbit": "MEO",
+    "freqChannel": 2,
+    "status": "healthy",
+    "signalsOpenL1Band": "L1OF",
+    "confidence": "medium"
+   }
+  ],
+  "sources": [
+   {
+    "title": "GLONASS Tracker: Russia's Navigation Satellites Live (azmth.space; quotes IAC status tables of 1 Aug and 13 Sep 2026, with event timeline)",
+    "url": "https://azmth.space/tracker/glonass"
+   },
+   {
+    "title": "IAC (glonass-iac.ru) - About GLONASS (open signals per satellite type: M L3OC for 755+, K L2OC for 17L+, K2 L1OC)",
+    "url": "https://glonass-iac.ru/en/about_glonass/"
+   },
+   {
+    "title": "PRIDE PPP-AR table/sat_parameters (IGS-derived PRN/SVN/frequency-channel history, generated 2024-08-22)",
+    "url": "https://raw.githubusercontent.com/PrideLab/PRIDE-PPPAR/master/table/sat_parameters"
+   },
+   {
+    "title": "GLONASS Status - Roscosmos, I. Revnivykh, ICG-18 Tokyo 2024 (L1OC/L2OC pre-operational)",
+    "url": "https://www.unoosa.org/documents/pdf/icg/2024/Tokyo2024/A04_GLONASS.pdf"
+   },
+   {
+    "title": "GLONASS-K2 signal analysis (Thoelert et al., DLR / GPS Solutions 2024)",
+    "url": "https://elib.dlr.de/204822/1/Thoelert%20etal%202024_GLONASS%20K2%20signal%20analysis.pdf"
+   },
+   {
+    "title": "GLONASS-K2 signal analysis (GPS Solutions, Springer)",
+    "url": "https://link.springer.com/article/10.1007/s10291-024-01681-z"
+   },
+   {
+    "title": "GLONASS Signal Plan - Navipedia (ESA): FDMA k range, antipodal channel sharing",
+    "url": "https://gssc.esa.int/navipedia/index.php/GLONASS_Signal_Plan"
+   },
+   {
+    "title": "Innovation: GLONASS - GPS World (K1 CDMA on L3 only; K2 adds L1/L2 CDMA)",
+    "url": "https://www.gpsworld.com/innovation-glonass-11405/"
+   },
+   {
+    "title": "The first Glonass-K2 satellite is in orbit as Cosmos-2569 - Russian strategic nuclear forces",
+    "url": "https://russianforces.org/blog/2023/08/the_first_glonass-k2_satellite.shtml"
+   },
+   {
+    "title": "Launch of Cosmos-2584, second Glonass-K2 satellite - Russian strategic nuclear forces",
+    "url": "https://russianforces.org/blog/2025/03/launch_of_cosmos-2584_second_g.shtml"
+   },
+   {
+    "title": "Launch of a Glonass-K navigation satellite from Plesetsk (24 Aug 2026) - Russian strategic nuclear forces",
+    "url": "https://russianforces.org/blog/2026/08/launch_of_a_glonass-k_navigati.shtml"
+   },
+   {
+    "title": "Launch of a Glonass satellite (Sep 2026, likely Cosmos-2620, 2026-216A) - Russian strategic nuclear forces",
+    "url": "https://russianforces.org/blog/2026/09/launch_of_a_glonass_satellite.shtml"
+   },
+   {
+    "title": "[SUCCESS] Soyuz 2.1b/Fregat GLONASS-K1 No. 19, 2026-08-24 - Orbiter-Forum",
+    "url": "https://www.orbiter-forum.com/threads/success-russian-space-forces-soyuz-2-1b-fregat-glonass-k1-no-19-2026-08-24.43787/"
+   },
+   {
+    "title": "Soyuz 2.1b/Fregat launch 2026-216 - KeepTrack",
+    "url": "https://keeptrack.space/launch/2026-216"
+   },
+   {
+    "title": "Uragan-K (GLONASS-K, 14F143) - Gunter's Space Page",
+    "url": "https://space.skyrocket.de/doc_sdat/uragan-k1.htm"
+   },
+   {
+    "title": "What Is the NORAD Satellite Database? - KeepTrack (5-digit catalog numbers exhausted ~11 Jul 2026; TLE cannot carry 6-digit numbers)",
+    "url": "https://keeptrack.space/space-terms/satellite-catalog"
+   },
+   {
+    "title": "CelesTrak: GLONASS Operational (glo-ops)",
+    "url": "https://celestrak.org/norad/elements/table.php?GROUP=glo-ops&FORMAT=tle"
+   },
+   {
+    "title": "List of GLONASS satellites - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_GLONASS_satellites"
+   },
+   {
+    "title": "Kosmos 2433 - Wikipedia (GLONASS-M 720, plane 3 slot 19 history)",
+    "url": "https://en.wikipedia.org/wiki/Kosmos_2433"
+   },
+   {
+    "title": "List of GLONASS satellites - Grokipedia (low authority; 707 in slot 19 from 27 Oct 2025)",
+    "url": "https://grokipedia.com/page/List_of_GLONASS_satellites"
+   },
+   {
+    "title": "Glonass-K (TAdviser): Glonass-K No. 705 in working slot 11",
+    "url": "https://www.tadviser.ru/index.php/%D0%9F%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82:%D0%93%D0%BB%D0%BE%D0%BD%D0%B0%D1%81%D1%81-%D0%9A_(%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%B8)"
+   },
+   {
+    "title": "List of Positioning Satellites - QZSS, Cabinet Office Japan (GLONASS SVN list)",
+    "url": "https://qzss.go.jp/en/technical/satellites/index.html"
+   },
+   {
+    "title": "Local slot-geometry check: SGP4 argument of latitude per plane (script /tmp/claude-0/-home-user/a52c30ad-9183-5d35-8543-ccf5ffcdd7f7/scratchpad/scripts/glo_slots.py on tle/glo-ops.tle)",
+    "url": "file:///tmp/claude-0/-home-user/a52c30ad-9183-5d35-8543-ccf5ffcdd7f7/scratchpad/scripts/glo_slots.py"
+   }
+  ]
+ },
+ "BeiDou (BDS-2 / BDS-3)": {
+  "satellites": [
+   {
+    "norad": 36287,
+    "name": "BEIDOU-2 G1",
+    "prn": "",
+    "svn": "C003",
+    "plane": null,
+    "slot": null,
+    "block": "BDS-2 GEO",
+    "orbit": "GEO",
+    "freqChannel": 0,
+    "status": "decommissioned",
+    "signalsOpenL1Band": "none (no PRN; formerly B1I as C01)",
+    "confidence": "high"
+   },
+   {
+    "norad": 36590,
+    "name": "BEIDOU-2 G3",
+    "prn": "",
+    "svn": "C004",
+    "plane": null,
+    "slot": null,
+    "block": "BDS-2 GEO",
+    "orbit": "GEO",
+    "freqChannel": 0,
+    "status": "decommissioned",
+    "signalsOpenL1Band": "none (no PRN; formerly B1I as C03)",
+    "confidence": "high"
+   },
+   {
+    "norad": 36828,
+    "name": "BEIDOU-2 IGSO-1",
+    "prn": "",
+    "svn": "C005",
+    "plane": null,
+    "slot": null,
+    "block": "BDS-2 IGSO",
+    "orbit": "IGSO",
+    "freqChannel": 0,
+    "status": "decommissioned",
+    "signalsOpenL1Band": "none (retired; formerly B1I)",
+    "confidence": "high"
+   },
+   {
+    "norad": 37210,
+    "name": "BEIDOU-2 G4",
+    "prn": "",
+    "svn": "C006",
+    "plane": null,
+    "slot": null,
+    "block": "BDS-2 GEO",
+    "orbit": "GEO",
+    "freqChannel": 0,
+    "status": "decommissioned",
+    "signalsOpenL1Band": "none (retired; formerly B1I)",
+    "confidence": "high"
+   },
+   {
+    "norad": 37256,
+    "name": "BEIDOU-2 IGSO-2",
+    "prn": "",
+    "svn": "C007",
+    "plane": null,
+    "slot": null,
+    "block": "BDS-2 IGSO",
+    "orbit": "IGSO",
+    "freqChannel": 0,
+    "status": "decommissioned",
+    "signalsOpenL1Band": "none (retired; formerly B1I)",
+    "confidence": "high"
+   },
+   {
+    "norad": 37384,
+    "name": "BEIDOU-2 IGSO-3",
+    "prn": "",
+    "svn": "C008",
+    "plane": null,
+    "slot": null,
+    "block": "BDS-2 IGSO",
+    "orbit": "IGSO",
+    "freqChannel": 0,
+    "status": "decommissioned",
+    "signalsOpenL1Band": "none (retired; formerly B1I)",
+    "confidence": "high"
+   },
+   {
+    "norad": 37763,
+    "name": "BEIDOU-2 IGSO-4",
+    "prn": "",
+    "svn": "C009",
+    "plane": null,
+    "slot": null,
+    "block": "BDS-2 IGSO",
+    "orbit": "IGSO",
+    "freqChannel": 0,
+    "status": "decommissioned",
+    "signalsOpenL1Band": "none (retired; formerly B1I)",
+    "confidence": "high"
+   },
+   {
+    "norad": 37948,
+    "name": "BEIDOU-2 IGSO-5",
+    "prn": "",
+    "svn": "C010",
+    "plane": null,
+    "slot": null,
+    "block": "BDS-2 IGSO",
+    "orbit": "IGSO",
+    "freqChannel": 0,
+    "status": "decommissioned",
+    "signalsOpenL1Band": "none (retired; formerly B1I)",
+    "confidence": "high"
+   },
+   {
+    "norad": 38091,
+    "name": "BEIDOU-2 G5",
+    "prn": "",
+    "svn": "C011",
+    "plane": null,
+    "slot": null,
+    "block": "BDS-2 GEO",
+    "orbit": "GEO",
+    "freqChannel": 0,
+    "status": "decommissioned",
+    "signalsOpenL1Band": "none (retired; formerly B1I)",
+    "confidence": "medium"
+   },
+   {
+    "norad": 38250,
+    "name": "BEIDOU-2 M3",
+    "prn": "",
+    "svn": "C012",
+    "plane": "A",
+    "slot": null,
+    "block": "BDS-2 MEO",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "decommissioned",
+    "signalsOpenL1Band": "none (retired; formerly B1I)",
+    "confidence": "high"
+   },
+   {
+    "norad": 38251,
+    "name": "BEIDOU-2 M4",
+    "prn": "",
+    "svn": "C013",
+    "plane": "A",
+    "slot": null,
+    "block": "BDS-2 MEO",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "decommissioned",
+    "signalsOpenL1Band": "none (retired; formerly B1I)",
+    "confidence": "high"
+   },
+   {
+    "norad": 38775,
+    "name": "BEIDOU-2 M6",
+    "prn": "",
+    "svn": "C015",
+    "plane": "B",
+    "slot": null,
+    "block": "BDS-2 MEO",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "decommissioned",
+    "signalsOpenL1Band": "none (retired; formerly B1I)",
+    "confidence": "high"
+   },
+   {
+    "norad": 38953,
+    "name": "BEIDOU-2 G6",
+    "prn": "",
+    "svn": "C016",
+    "plane": null,
+    "slot": null,
+    "block": "BDS-2 GEO",
+    "orbit": "GEO",
+    "freqChannel": 0,
+    "status": "decommissioned",
+    "signalsOpenL1Band": "none (retired; formerly B1I)",
+    "confidence": "high"
+   },
+   {
+    "norad": 40549,
+    "name": "BEIDOU-3S IGSO-1S",
+    "prn": "",
+    "svn": "C101",
+    "plane": null,
+    "slot": null,
+    "block": "BDS-3S (experimental, SECM)",
+    "orbit": "IGSO",
+    "freqChannel": 0,
+    "status": "testing",
+    "signalsOpenL1Band": "unknown; historically B1I plus trial new-generation signals (B1C-type); no PRN assigned",
+    "confidence": "low"
+   },
+   {
+    "norad": 40748,
+    "name": "BEIDOU-3S M2S",
+    "prn": "",
+    "svn": "C103",
+    "plane": "A",
+    "slot": null,
+    "block": "BDS-3S (experimental, CAST)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "testing",
+    "signalsOpenL1Band": "unknown; historically B1I plus trial B1C-type signal; no PRN in current lists",
+    "confidence": "low"
+   },
+   {
+    "norad": 40749,
+    "name": "BEIDOU-3S M1S",
+    "prn": "",
+    "svn": "C102",
+    "plane": "A",
+    "slot": null,
+    "block": "BDS-3S (experimental, CAST)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "testing",
+    "signalsOpenL1Band": "unknown; historically B1I plus trial B1C-type signal; no PRN in current lists",
+    "confidence": "low"
+   },
+   {
+    "norad": 40938,
+    "name": "BEIDOU-3S IGSO-2S",
+    "prn": "",
+    "svn": "C104",
+    "plane": null,
+    "slot": null,
+    "block": "BDS-3S (experimental, CAST)",
+    "orbit": "IGSO",
+    "freqChannel": 0,
+    "status": "testing",
+    "signalsOpenL1Band": "unknown; historically B1I plus trial B1C-type signal; no PRN in current lists",
+    "confidence": "low"
+   },
+   {
+    "norad": 41434,
+    "name": "BEIDOU-2 IGSO-6",
+    "prn": "C09",
+    "svn": "C017",
+    "plane": null,
+    "slot": null,
+    "block": "BDS-2 IGSO",
+    "orbit": "IGSO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I",
+    "confidence": "medium"
+   },
+   {
+    "norad": 41586,
+    "name": "BEIDOU-2 G7",
+    "prn": "",
+    "svn": "C018",
+    "plane": null,
+    "slot": null,
+    "block": "BDS-2 GEO",
+    "orbit": "GEO",
+    "freqChannel": 0,
+    "status": "decommissioned",
+    "signalsOpenL1Band": "none (retired; formerly B1I)",
+    "confidence": "high"
+   },
+   {
+    "norad": 43001,
+    "name": "BEIDOU-3 M1",
+    "prn": "C19",
+    "svn": "C201",
+    "plane": "B",
+    "slot": null,
+    "block": "BDS-3 MEO (CAST)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 43002,
+    "name": "BEIDOU-3 M2",
+    "prn": "C20",
+    "svn": "C202",
+    "plane": "B",
+    "slot": null,
+    "block": "BDS-3 MEO (CAST)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 43107,
+    "name": "BEIDOU-3 M7",
+    "prn": "C27",
+    "svn": "C203",
+    "plane": "A",
+    "slot": null,
+    "block": "BDS-3 MEO (SECM)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 43108,
+    "name": "BEIDOU-3 M8",
+    "prn": "C28",
+    "svn": "C204",
+    "plane": "A",
+    "slot": null,
+    "block": "BDS-3 MEO (SECM)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 43207,
+    "name": "BEIDOU-3 M4",
+    "prn": "C22",
+    "svn": "C205",
+    "plane": "B",
+    "slot": null,
+    "block": "BDS-3 MEO (CAST)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 43208,
+    "name": "BEIDOU-3 M3",
+    "prn": "C21",
+    "svn": "C206",
+    "plane": "B",
+    "slot": null,
+    "block": "BDS-3 MEO (CAST)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 43245,
+    "name": "BEIDOU-3 M9",
+    "prn": "C29",
+    "svn": "C207",
+    "plane": "A",
+    "slot": null,
+    "block": "BDS-3 MEO (SECM)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 43246,
+    "name": "BEIDOU-3 M10",
+    "prn": "C30",
+    "svn": "C208",
+    "plane": "A",
+    "slot": null,
+    "block": "BDS-3 MEO (SECM)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 43539,
+    "name": "BEIDOU-2 IGSO-7",
+    "prn": "C10",
+    "svn": "C019",
+    "plane": null,
+    "slot": null,
+    "block": "BDS-2 IGSO",
+    "orbit": "IGSO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I",
+    "confidence": "medium"
+   },
+   {
+    "norad": 43581,
+    "name": "BEIDOU-3 M5",
+    "prn": "C23",
+    "svn": "C209",
+    "plane": "C",
+    "slot": null,
+    "block": "BDS-3 MEO (CAST)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 43582,
+    "name": "BEIDOU-3 M6",
+    "prn": "C24",
+    "svn": "C210",
+    "plane": "C",
+    "slot": null,
+    "block": "BDS-3 MEO (CAST)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 43602,
+    "name": "BEIDOU-3 M12",
+    "prn": "C26",
+    "svn": "C211",
+    "plane": "C",
+    "slot": null,
+    "block": "BDS-3 MEO (SECM)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "medium"
+   },
+   {
+    "norad": 43603,
+    "name": "BEIDOU-3 M11",
+    "prn": "C25",
+    "svn": "C212",
+    "plane": "C",
+    "slot": null,
+    "block": "BDS-3 MEO (SECM)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "medium"
+   },
+   {
+    "norad": 43622,
+    "name": "BEIDOU-3 M13",
+    "prn": "C32",
+    "svn": "C213",
+    "plane": "B",
+    "slot": null,
+    "block": "BDS-3 MEO (CAST)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 43623,
+    "name": "BEIDOU-3 M14",
+    "prn": "C33",
+    "svn": "C214",
+    "plane": "B",
+    "slot": null,
+    "block": "BDS-3 MEO (CAST)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 43647,
+    "name": "BEIDOU-3 M16",
+    "prn": "C35",
+    "svn": "C215",
+    "plane": "A",
+    "slot": null,
+    "block": "BDS-3 MEO (SECM)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "medium"
+   },
+   {
+    "norad": 43648,
+    "name": "BEIDOU-3 M15",
+    "prn": "C34",
+    "svn": "C216",
+    "plane": "A",
+    "slot": null,
+    "block": "BDS-3 MEO (SECM)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "medium"
+   },
+   {
+    "norad": 43683,
+    "name": "BEIDOU-3 G1",
+    "prn": "C04",
+    "svn": "C217",
+    "plane": null,
+    "slot": null,
+    "block": "BDS-3 GEO (CAST)",
+    "orbit": "GEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I",
+    "confidence": "high"
+   },
+   {
+    "norad": 43706,
+    "name": "BEIDOU-3 M17",
+    "prn": "C36",
+    "svn": "C218",
+    "plane": "C",
+    "slot": null,
+    "block": "BDS-3 MEO (CAST)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 43707,
+    "name": "BEIDOU-3 M18",
+    "prn": "C37",
+    "svn": "C219",
+    "plane": "C",
+    "slot": null,
+    "block": "BDS-3 MEO (CAST)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 44204,
+    "name": "BEIDOU-3 IGSO-1",
+    "prn": "C06",
+    "svn": "C220",
+    "plane": null,
+    "slot": null,
+    "block": "BDS-3 IGSO (CAST)",
+    "orbit": "IGSO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 44231,
+    "name": "BEIDOU-2 G8",
+    "prn": "",
+    "svn": "C020",
+    "plane": null,
+    "slot": null,
+    "block": "BDS-2 GEO",
+    "orbit": "GEO",
+    "freqChannel": 0,
+    "status": "decommissioned",
+    "signalsOpenL1Band": "none (retired; formerly B1I)",
+    "confidence": "high"
+   },
+   {
+    "norad": 44337,
+    "name": "BEIDOU-3 IGSO-2",
+    "prn": "C07",
+    "svn": "C221",
+    "plane": null,
+    "slot": null,
+    "block": "BDS-3 IGSO (CAST)",
+    "orbit": "IGSO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 44542,
+    "name": "BEIDOU-3 M24",
+    "prn": "C40",
+    "svn": "C222",
+    "plane": "C",
+    "slot": null,
+    "block": "BDS-3 MEO (CAST)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "medium"
+   },
+   {
+    "norad": 44543,
+    "name": "BEIDOU-3 M23",
+    "prn": "C39",
+    "svn": "C223",
+    "plane": "C",
+    "slot": null,
+    "block": "BDS-3 MEO (CAST)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 44709,
+    "name": "BEIDOU-3 IGSO-3",
+    "prn": "C08",
+    "svn": "C224",
+    "plane": null,
+    "slot": null,
+    "block": "BDS-3 IGSO (CAST)",
+    "orbit": "IGSO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 44793,
+    "name": "BEIDOU-3 M22",
+    "prn": "C31",
+    "svn": "C225",
+    "plane": "A",
+    "slot": null,
+    "block": "BDS-3 MEO (SECM)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 44794,
+    "name": "BEIDOU-3 M21",
+    "prn": "C38",
+    "svn": "C226",
+    "plane": "A",
+    "slot": null,
+    "block": "BDS-3 MEO (SECM)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 44864,
+    "name": "BEIDOU-3 M19",
+    "prn": "C41",
+    "svn": "C227",
+    "plane": "B",
+    "slot": null,
+    "block": "BDS-3 MEO (CAST)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 44865,
+    "name": "BEIDOU-3 M20",
+    "prn": "C42",
+    "svn": "C228",
+    "plane": "B",
+    "slot": null,
+    "block": "BDS-3 MEO (CAST)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 45344,
+    "name": "BEIDOU-3 G2",
+    "prn": "C02",
+    "svn": "C229",
+    "plane": null,
+    "slot": null,
+    "block": "BDS-3 GEO (CAST)",
+    "orbit": "GEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I",
+    "confidence": "medium"
+   },
+   {
+    "norad": 45807,
+    "name": "BEIDOU-3 G3",
+    "prn": "C03",
+    "svn": "C230",
+    "plane": null,
+    "slot": null,
+    "block": "BDS-3 GEO (CAST)",
+    "orbit": "GEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I",
+    "confidence": "medium"
+   },
+   {
+    "norad": 56564,
+    "name": "BEIDOU-3 G4",
+    "prn": "C01",
+    "svn": "C231",
+    "plane": null,
+    "slot": null,
+    "block": "BDS-3 GEO (CAST)",
+    "orbit": "GEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I",
+    "confidence": "high"
+   },
+   {
+    "norad": 58654,
+    "name": "BEIDOU-3 M28",
+    "prn": "C14",
+    "svn": "C232",
+    "plane": "B",
+    "slot": null,
+    "block": "BDS-3 MEO (CAST)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 58655,
+    "name": "BEIDOU-3 M26",
+    "prn": "C12",
+    "svn": "C233",
+    "plane": "B",
+    "slot": null,
+    "block": "BDS-3 MEO (CAST)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "high"
+   },
+   {
+    "norad": 61186,
+    "name": "BEIDOU-3 M25",
+    "prn": "C11",
+    "svn": "C234",
+    "plane": "A",
+    "slot": null,
+    "block": "BDS-3 MEO (backup; manufacturer not confirmed)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "medium"
+   },
+   {
+    "norad": 61187,
+    "name": "BEIDOU-3 M27",
+    "prn": "C13",
+    "svn": "C235",
+    "plane": "A",
+    "slot": null,
+    "block": "BDS-3 MEO (backup; manufacturer not confirmed)",
+    "orbit": "MEO",
+    "freqChannel": 0,
+    "status": "healthy",
+    "signalsOpenL1Band": "B1I, B1C",
+    "confidence": "medium"
+   }
+  ],
+  "sources": [
+   {
+    "title": "QZSS (Cabinet Office, Japan) - List of Positioning Satellites (BeiDou table with current PRN/SVN, ~Sep 2026 version)",
+    "url": "https://qzss.go.jp/en/technical/satellites/index.html"
+   },
+   {
+    "title": "IGS MGEX Constellations (BeiDou SVN/PRN history; BDS-2 decommissioned April 2026)",
+    "url": "https://igs.org/mgex/constellations/"
+   },
+   {
+    "title": "[IGSMAIL-8713] igs20_2423: Update including corrected BEIDOU C217 and C231 PRN assignment (C01/C04/C59/C62)",
+    "url": "https://lists.igs.org/pipermail/igsmail/2026/008709.html"
+   },
+   {
+    "title": "[IGSMAIL-8568] BeiDou-3 satellites C47 and C49 (preliminary NORAD 61186/61187 assignment, testing status Feb 2025)",
+    "url": "https://lists.igs.org/pipermail/igsmail/2025/008564.html"
+   },
+   {
+    "title": "PRIDE-PPPAR table/sat_parameters (IGS-metadata-derived PRN/SVN/COSPAR table, generated 2024-08-22)",
+    "url": "https://raw.githubusercontent.com/PrideLab/PRIDE-PPPAR/master/table/sat_parameters"
+   },
+   {
+    "title": "Swift Navigation - BeiDou Reconfiguration [2026-05-06]",
+    "url": "https://support.swiftnav.com/support/solutions/articles/44002797905-beidou-reconfiguration-2026-05-06-"
+   },
+   {
+    "title": "CHC Navigation confirms readiness for upcoming BeiDou system upgrade (Apr 2026)",
+    "url": "https://www.chcnav.com/about/news/2026/chc-navigation-confirms-readiness-for-upcoming-beidou-system-upgrade"
+   },
+   {
+    "title": "azmth.space BeiDou Tracker (secondary; cites CSNO-TARC status table of 14 Sep 2026, backups in service 31 Mar 2026, 17 PRN reallocations 10-21 Apr 2026)",
+    "url": "https://azmth.space/tracker/beidou"
+   },
+   {
+    "title": "CSNO-TARC Constellation Status (authoritative; not reachable from this environment)",
+    "url": "http://www.csno-tarc.cn/en/system/constellation"
+   },
+   {
+    "title": "Xinhua: China to conduct in-orbit upgrade of BeiDou (13 Mar 2026; 50 satellites in orbit)",
+    "url": "https://www.news.cn/tech/20260313/a304685b702847419e2b65cab24a2458/c.html"
+   },
+   {
+    "title": "China News: BeiDou has fully completed in-orbit upgrade (31 Jul 2026)",
+    "url": "https://www.chinanews.com.cn/gn/2026/07-31/10670024.shtml"
+   },
+   {
+    "title": "CGTN: BeiDou completes in-orbit upgrade (1 Aug 2026)",
+    "url": "https://news.cgtn.com/news/2026-08-01/China-s-BeiDou-Navigation-Satellite-System-completes-in-orbit-upgrade-1PfkEk924Kc/p.html"
+   },
+   {
+    "title": "BeiDou official notice: upgrade/maintenance of BDS-2 IGSO-6, IGSO-7, BDS-3 GEO-3 from 18 Apr 2026",
+    "url": "http://en.beidou.gov.cn/WHATSNEWS/202604/t20260416_29288.html"
+   },
+   {
+    "title": "Remote Sensing 18(17):2936 - Performance Analysis of BDS-3 PPP-B2b During the Satellite In-Orbit Upgrade Period (PRN reconfiguration, BDS-2 decommissioning)",
+    "url": "https://www.mdpi.com/2072-4292/18/17/2936"
+   },
+   {
+    "title": "SCMP: BeiDou getting an upgrade (13 BDS-2 satellites to be decommissioned)",
+    "url": "https://www.scmp.com/economy/article/3348900/chinas-gps-rival-beidou-getting-upgrade-beijing-eyes-global-adoption"
+   },
+   {
+    "title": "SpaceNews: China to launch next-generation Beidou satellites in 2027",
+    "url": "https://spacenews.com/china-to-launch-next-generation-beidou-satellites-in-2027/"
+   },
+   {
+    "title": "SpaceNews: China launches final pair of backup Beidou satellites (2024-168)",
+    "url": "https://spacenews.com/china-launches-final-pair-of-backup-beidou-satellites/"
+   },
+   {
+    "title": "BeiDou Open Service Performance Standard v3.0 (B1I/B3I on BDS-2 and BDS-3; B1C/B2a on BDS-3 MEO/IGSO)",
+    "url": "http://www.beidou.gov.cn/xt/gfxz/202105/P020210526215541444683.pdf"
+   },
+   {
+    "title": "BeiDou SIS ICD Open Service Signal B1I v3.0",
+    "url": "http://www.beidou.gov.cn/xt/gfxz/201902/P020190227592987952674.pdf"
+   },
+   {
+    "title": "Initial assessment of the COMPASS/BeiDou-3: new-generation navigation signals (BDS-3S experimental signals)",
+    "url": "https://www.researchgate.net/publication/316055961_Initial_assessment_of_the_COMPASSBeiDou-3_new-generation_navigation_signals"
+   },
+   {
+    "title": "ILRS BeiDou-3 mission pages (SATCAT names vs COSPAR, e.g. 2019-078A = 'BEIDOU 3M21' = SVN C225)",
+    "url": "https://ilrs.gsfc.nasa.gov/missions/satellite_missions/current_missions/cmi5_com.html"
+   },
+   {
+    "title": "CelesTrak BeiDou GP group (inventory source)",
+    "url": "https://celestrak.org/NORAD/elements/gp.php?GROUP=beidou&FORMAT=xml"
+   }
+  ]
+ }
+}
