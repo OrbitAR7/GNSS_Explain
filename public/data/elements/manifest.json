@@ -1,29 +1,29 @@
 {
-  "retrievedAt": "2026-10-18T13:02:11.759Z",
+  "retrievedAt": "2026-11-25T19:31:00.704Z",
   "systems": {
     "gps": {
       "group": "gps-ops",
-      "source": "CelesTrak (GitHub mirror caelo-works/tle-mirror)",
+      "source": "CelesTrak",
       "count": 32,
-      "sha256": "406a3d8f7b20a55bd7ca5ee1d39196e7bdc040dffa04b7cc1171beedb32c1087"
+      "sha256": "96022bfa0972b6d25c1434d55fbd7ce0cc9966f922bc200c40c34ee235155591"
     },
     "galileo": {
       "group": "galileo",
-      "source": "CelesTrak (GitHub mirror caelo-works/tle-mirror)",
+      "source": "CelesTrak",
       "count": 32,
-      "sha256": "b3ab5bf3561a17fa7b58fa9bf9f20f03c8554e7281f1c9fcb34e8b06d7313209"
+      "sha256": "740409f02a3e6b7011e5bbf4be5e039e5e534b4c00956052d47b809f3e0cfe45"
     },
     "glonass": {
       "group": "glo-ops",
-      "source": "CelesTrak (GitHub mirror caelo-works/tle-mirror)",
-      "count": 27,
-      "sha256": "8a70cd949017b3b9a74375363e8c677b29fbc009155a869c4d6389a76d831ead"
+      "source": "CelesTrak",
+      "count": 25,
+      "sha256": "790e544111a737c929b2c0022ae20a9e61510abf608417acb3e9ac4db1626780"
     },
     "beidou": {
       "group": "beidou",
-      "source": "CelesTrak (GitHub mirror caelo-works/tle-mirror)",
-      "count": 56,
-      "sha256": "00e7a1f80b869e24a8e9591a8c6bf8d33e3ad00dfb1187ffc62a218313a50913"
+      "source": "CelesTrak",
+      "count": 37,
+      "sha256": "fb05dd179e563b7a8f16a04ff0864f2f414c8654047272bb858cb93819127065"
     }
   }
 }

@@ -1,6 +1,12 @@
 # GNSS Explain
 
+[![CI](https://github.com/OrbitAR7/GNSS_Explain/actions/workflows/CI.yml/badge.svg)](https://github.com/OrbitAR7/GNSS_Explain/actions/workflows/CI.yml)
+
 **An interactive satellite navigation simulator developed as a teaching aid for the Saudi Space Agency's Space Academy courses.**
+
+**[Open the live simulator →](https://orbitar7.github.io/GNSS_Explain/)** (runs in the browser; no install)
+
+[![GNSS Explain: the four constellations around the Earth, the briefing panel, and a simulated phone with a 3D fix in Riyadh using 35 satellites at PDOP 0.9](docs/screenshot.jpg)](https://orbitar7.github.io/GNSS_Explain/)
 
 GNSS Explain is a physics-based, interactive simulation I developed to help students understand how Global Navigation Satellite Systems (GNSS) work. Rather than learning only from equations and diagrams, students can *see* how a receiver acquires satellite signals, measures ranges, and solves for position and time.
 
@@ -40,7 +46,7 @@ Satellite orbits are propagated using **SGP4**, via [`satellite.js`](https://git
 
 At startup, the browser attempts to fetch current orbital elements. Fetched data is cached for **two hours**, respecting CelesTrak's requested minimum refresh interval. If the network request fails, the simulator uses the bundled snapshot in `public/data/elements/`, allowing the application to work offline after its assets have been installed or deployed.
 
-The snapshot's `manifest.json` records when and where the data was obtained and includes **SHA-256 hashes**. Every element set is checksum-validated.
+The snapshot's `manifest.json` records when and where the data was obtained and includes **SHA-256 hashes**. Every element set is checksum-validated. `npm run update-elements` downloads from CelesTrak; only if CelesTrak is unreachable does it fall back to a public GitHub mirror of the same groups ([caelo-works/tle-mirror](https://github.com/caelo-works/tle-mirror)), and the manifest records which source was used.
 
 Each satellite is matched by **NORAD catalog number** to `src/gnss/catalogData.ts`, which records its PRN, block, orbit type, plane/slot, GLONASS frequency channel, and service status. Only satellites identified as healthy are eligible for the position solution; others remain visible and trackable but are flagged accordingly.
 
@@ -116,6 +122,8 @@ public/
   data/elements/        Bundled orbital element sets and manifest
 scripts/                 Asset copy and element refresh
 tests/                   Vitest unit tests
+docs/                    README screenshot
+.github/workflows/       CI: tests, lint, build, then deploy to GitHub Pages from main
 ```
 
 ## Interference scenarios (next module)
