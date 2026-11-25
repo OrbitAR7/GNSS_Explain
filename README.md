@@ -150,6 +150,10 @@ These interfaces establish the extension points for future interference demonstr
 
 Third-party code, orbital data, map content, and fonts retain their respective licenses and attribution requirements.
 
+## License
+
+MIT, see [LICENSE](LICENSE). This covers the GNSS Explain source code; the third-party software, data, imagery and fonts credited above keep their own licenses.
+
 ## Author
 
 **Hamoud Alshammari**  
