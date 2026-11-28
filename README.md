@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/OrbitAR7/GNSS_Explain/actions/workflows/CI.yml/badge.svg)](https://github.com/OrbitAR7/GNSS_Explain/actions/workflows/CI.yml)
 
-**An interactive satellite navigation simulator developed as a teaching aid for the Saudi Space Agency's Space Academy courses.**
+**An interactive satellite navigation simulator built as a teaching aid for GNSS courses.**
 
 **[Open the live simulator →](https://orbitar7.github.io/GNSS_Explain/)** (runs in the browser; no install)
 
@@ -15,8 +15,6 @@ The simulator displays the four global navigation satellite systems—**GPS, Gal
 Guided chapters walk students through satellite ranging, the receiver clock problem, why four satellites are needed for a standalone 3D position-and-time fix, multi-constellation navigation, satellite geometry and dilution of precision (DOP), measurement errors, and signal reception in different environments. The values and visualizations are driven by the simulation rather than being static illustrations.
 
 Instructors can also use the simulator freely: change a condition in front of the class and show students how satellite visibility, signal strength, acquisition, solution availability, and positioning accuracy respond.
-
-> **Educational context:** Developed independently as a teaching aid for Space Academy courses offered by the **Saudi Space Agency (SSA)**. This project is not presented as an official Saudi Space Agency software product or endorsement.
 
 ## Running
 
@@ -158,6 +156,4 @@ MIT, see [LICENSE](LICENSE). This covers the GNSS Explain source code; the third
 
 **Hamoud Alshammari**  
 Aerospace Engineer
-
-Developed for educational use in the context of the **Saudi Space Agency's Space Academy courses**. The simulator is independently developed; no official agency endorsement or ownership is implied.
 
